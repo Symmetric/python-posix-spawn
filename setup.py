@@ -128,7 +128,7 @@ def keywords_with_side_effects(argv):
 
 
 setup(
-    name="posix-spawn",
+    name="python-posix-spawn",
     version=VERSION,
     description="CFFI bindings to posix_spawn.",
     license="MIT",
